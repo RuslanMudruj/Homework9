@@ -1,0 +1,8 @@
+Wrong date in:
+Name: Rusla
+Price: 0
+Weight: 0
+Days: 0
+
+30.10.2021|19:03:09
+
